@@ -29,7 +29,7 @@ export default function ActionAreaCard() {
                 <Typography gutterBottom variant="h5" component="div">
                   DUNE
                 </Typography>
-                <Typography component="legend">IMDB</Typography>
+                <Typography component="legend"></Typography>
                 <Rating name="read-only" value={4.5} readOnly />
 
               </CardContent>
@@ -49,7 +49,7 @@ export default function ActionAreaCard() {
                 <Typography gutterBottom variant="h5" component="div">
                   DUNE
                 </Typography>
-                <Typography component="legend">IMDB</Typography>
+                <Typography component="legend"></Typography>
                 <Rating name="read-only" value={4.5} readOnly />
 
               </CardContent>
@@ -69,7 +69,7 @@ export default function ActionAreaCard() {
                 <Typography gutterBottom variant="h5" component="div">
                   DUNE
                 </Typography>
-                <Typography component="legend">IMDB</Typography>
+                <Typography component="legend"></Typography>
                 <Rating name="read-only" value={4.5} readOnly />
               </CardContent>
             </CardActionArea>
@@ -88,7 +88,7 @@ export default function ActionAreaCard() {
                 <Typography gutterBottom variant="h5" component="div">
                   DUNE
                 </Typography>
-                <Typography component="legend">IMDB</Typography>
+                <Typography component="legend"></Typography>
                 <Rating name="read-only" value={4.5} readOnly />
                 
               </CardContent>
@@ -108,7 +108,7 @@ export default function ActionAreaCard() {
                 <Typography gutterBottom variant="h5" component="div">
                   DUNE
                 </Typography>
-                <Typography component="legend">IMDB</Typography>
+                <Typography component="legend"></Typography>
                 <Rating name="read-only" value={4.5} readOnly />
               
               </CardContent>
@@ -128,7 +128,7 @@ export default function ActionAreaCard() {
                 <Typography gutterBottom variant="h5" component="div">
                   DUNE
                 </Typography>
-                <Typography component="legend">IMDB</Typography>
+                <Typography component="legend"></Typography>
                 <Rating name="read-only" value={4.5} readOnly />
             
               </CardContent>
