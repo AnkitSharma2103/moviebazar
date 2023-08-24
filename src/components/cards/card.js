@@ -31,8 +31,7 @@ export default function ActionAreaCard() {
                 </Typography>
                 <Typography component="legend">IMDB</Typography>
                 <Rating name="read-only" value={4.5} readOnly />
-                <Typography component="legend">Rooten tamatoes</Typography>
-                <Rating name="read-only" value={4} readOnly />
+
               </CardContent>
             </CardActionArea>
           </Card>
@@ -52,8 +51,7 @@ export default function ActionAreaCard() {
                 </Typography>
                 <Typography component="legend">IMDB</Typography>
                 <Rating name="read-only" value={4.5} readOnly />
-                <Typography component="legend">Rooten tamatoes</Typography>
-                <Rating name="read-only" value={4} readOnly />
+
               </CardContent>
             </CardActionArea>
           </Card>
@@ -73,8 +71,6 @@ export default function ActionAreaCard() {
                 </Typography>
                 <Typography component="legend">IMDB</Typography>
                 <Rating name="read-only" value={4.5} readOnly />
-                <Typography component="legend">Rooten tamatoes</Typography>
-                <Rating name="read-only" value={4} readOnly />
               </CardContent>
             </CardActionArea>
           </Card>
@@ -94,8 +90,7 @@ export default function ActionAreaCard() {
                 </Typography>
                 <Typography component="legend">IMDB</Typography>
                 <Rating name="read-only" value={4.5} readOnly />
-                <Typography component="legend">Rooten tamatoes</Typography>
-                <Rating name="read-only" value={4} readOnly />
+                
               </CardContent>
             </CardActionArea>
           </Card>
@@ -115,8 +110,7 @@ export default function ActionAreaCard() {
                 </Typography>
                 <Typography component="legend">IMDB</Typography>
                 <Rating name="read-only" value={4.5} readOnly />
-                <Typography component="legend">Rooten tamatoes</Typography>
-                <Rating name="read-only" value={4} readOnly />
+              
               </CardContent>
             </CardActionArea>
           </Card>
@@ -136,8 +130,7 @@ export default function ActionAreaCard() {
                 </Typography>
                 <Typography component="legend">IMDB</Typography>
                 <Rating name="read-only" value={4.5} readOnly />
-                <Typography component="legend">Rooten tamatoes</Typography>
-                <Rating name="read-only" value={4} readOnly />
+            
               </CardContent>
             </CardActionArea>
           </Card>
