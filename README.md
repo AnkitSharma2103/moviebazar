@@ -1,2 +1,2 @@
 # moviebazar
-Created with CodeSandbox
+A movie listing website using CodeSandbox
